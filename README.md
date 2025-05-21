@@ -7,6 +7,11 @@ If you haven't used JupyterNotebook before, make sure to install all necessary p
 JupyterNotebook runs best inside a virtual environment on PyCharm (according to my experience).
 When everything is installed, simply click on "Run all" (looks like two play buttons) and the code should be executed.
 
+We decided to use the following approach to solve the task:
+- explore each arm 33 times (99 in total)
+- choose arm with the lowest standard deviation so far
+- play arm and predict mean of previous observations
+
 
 ## Task 3.2
 Clone the whole repository or just the [JupyterNotebook](Task3/task3.ipynb).
