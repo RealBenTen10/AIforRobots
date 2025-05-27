@@ -1,1449 +1,6 @@
 header:
   stamp:
-    sec: 104
-    nanosec: 793000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 808000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 823000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 841000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 856000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 871000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 889000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 904000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 922000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 937000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 952000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 970000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 104
-    nanosec: 985000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 0
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 18000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 33000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 51000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 66000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 81000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 99000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 114000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 132000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 147000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 162000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 180000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 195000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 210000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 228000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 243000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 261000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 276000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 291000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 309000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 324000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 339000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 357000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 372000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 390000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 405000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 420000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 438000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 453000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 468000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 486000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 501000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 519000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 534000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 549000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 567000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 582000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 597000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 615000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 630000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 648000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 663000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 678000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 696000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 711000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 726000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 744000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 759000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 777000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 792000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 807000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 825000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 840000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 855000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 873000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 888000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 906000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 921000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 936000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 954000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 969000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 105
-    nanosec: 984000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 2000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 17000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 35000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 50000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 65000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 83000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 98000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 113000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 131000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 146000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 164000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 179000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 194000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 212000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 227000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 242000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 260000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 275000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 293000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 308000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 323000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 341000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 356000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 371000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 389000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 404000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 422000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 437000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 452000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 470000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 485000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 500000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 518000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 533000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 551000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 566000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
+    sec: 217
     nanosec: 581000000
   frame_id: base_link
 readings:
@@ -1456,7 +13,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 106
+    sec: 217
     nanosec: 599000000
   frame_id: base_link
 readings:
@@ -1469,7 +26,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 106
+    sec: 217
     nanosec: 614000000
   frame_id: base_link
 readings:
@@ -1482,7 +39,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 106
+    sec: 217
     nanosec: 632000000
   frame_id: base_link
 readings:
@@ -1495,7 +52,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 106
+    sec: 217
     nanosec: 647000000
   frame_id: base_link
 readings:
@@ -1504,11 +61,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 502
 ---
 header:
   stamp:
-    sec: 106
+    sec: 217
     nanosec: 662000000
   frame_id: base_link
 readings:
@@ -1521,2425 +78,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 106
-    nanosec: 680000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 695000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 710000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 728000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 743000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 761000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 776000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 791000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 809000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 824000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 839000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 857000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 872000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 890000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 905000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 920000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 938000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 953000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 968000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 106
-    nanosec: 986000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 1000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 19000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 34000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 49000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 67000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 82000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 97000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 115000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 130000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 148000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 163000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 178000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 196000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 211000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 226000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 244000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 259000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 277000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 292000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 307000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 325000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 340000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 355000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 373000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 388000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 406000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 421000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 436000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 454000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 469000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 484000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 502000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 517000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 535000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 550000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 565000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 583000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 598000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 613000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 631000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 646000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 664000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 679000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 694000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 712000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 727000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 742000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 760000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 775000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 793000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 808000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 823000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 841000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 856000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 871000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 889000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 904000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 922000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 937000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 952000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 970000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 107
-    nanosec: 985000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 0
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 18000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 33000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 51000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 66000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 81000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 99000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 114000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 132000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 147000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 162000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 180000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 195000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 210000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 228000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 243000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 261000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 276000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 291000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 309000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 324000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 339000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 357000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 372000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 390000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 405000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 420000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 438000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 453000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 468000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 486000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 501000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 519000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 534000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 549000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 567000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 582000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 597000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 615000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 630000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 648000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 663000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 678000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 696000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 711000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 726000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 744000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 759000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 777000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 792000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 807000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 825000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 840000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 855000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 873000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 888000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 906000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 921000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 936000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 954000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 969000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 108
-    nanosec: 984000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 2000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 17000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 35000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 50000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 65000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 83000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 98000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 113000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 131000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 146000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 164000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 179000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 194000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 212000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 227000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 242000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 260000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 275000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 293000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 308000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 323000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 341000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 508
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 356000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 371000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 389000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 404000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 422000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 437000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 452000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 470000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 485000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 500000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 518000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 533000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 551000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 566000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 581000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 599000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 614000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 632000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 647000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
-    nanosec: 662000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 109
+    sec: 217
     nanosec: 680000000
   frame_id: base_link
 readings:
@@ -3952,7 +91,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 695000000
   frame_id: base_link
 readings:
@@ -3965,7 +104,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 710000000
   frame_id: base_link
 readings:
@@ -3978,7 +117,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 728000000
   frame_id: base_link
 readings:
@@ -3991,7 +130,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 743000000
   frame_id: base_link
 readings:
@@ -4004,7 +143,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 761000000
   frame_id: base_link
 readings:
@@ -4017,7 +156,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 776000000
   frame_id: base_link
 readings:
@@ -4030,7 +169,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 791000000
   frame_id: base_link
 readings:
@@ -4043,7 +182,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 809000000
   frame_id: base_link
 readings:
@@ -4056,7 +195,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 824000000
   frame_id: base_link
 readings:
@@ -4069,7 +208,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 839000000
   frame_id: base_link
 readings:
@@ -4082,7 +221,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 857000000
   frame_id: base_link
 readings:
@@ -4095,7 +234,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 872000000
   frame_id: base_link
 readings:
@@ -4108,7 +247,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 890000000
   frame_id: base_link
 readings:
@@ -4121,7 +260,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 905000000
   frame_id: base_link
 readings:
@@ -4134,7 +273,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 920000000
   frame_id: base_link
 readings:
@@ -4147,7 +286,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 938000000
   frame_id: base_link
 readings:
@@ -4160,7 +299,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 953000000
   frame_id: base_link
 readings:
@@ -4173,7 +312,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 968000000
   frame_id: base_link
 readings:
@@ -4186,7 +325,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 109
+    sec: 217
     nanosec: 986000000
   frame_id: base_link
 readings:
@@ -4199,7 +338,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 1000000
   frame_id: base_link
 readings:
@@ -4212,7 +351,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 19000000
   frame_id: base_link
 readings:
@@ -4225,7 +364,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 34000000
   frame_id: base_link
 readings:
@@ -4238,7 +377,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 49000000
   frame_id: base_link
 readings:
@@ -4251,7 +390,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 67000000
   frame_id: base_link
 readings:
@@ -4264,7 +403,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 82000000
   frame_id: base_link
 readings:
@@ -4277,7 +416,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 97000000
   frame_id: base_link
 readings:
@@ -4290,7 +429,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 115000000
   frame_id: base_link
 readings:
@@ -4303,7 +442,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 130000000
   frame_id: base_link
 readings:
@@ -4316,7 +455,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 148000000
   frame_id: base_link
 readings:
@@ -4329,7 +468,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 163000000
   frame_id: base_link
 readings:
@@ -4342,7 +481,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 178000000
   frame_id: base_link
 readings:
@@ -4355,7 +494,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 196000000
   frame_id: base_link
 readings:
@@ -4368,7 +507,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 211000000
   frame_id: base_link
 readings:
@@ -4381,7 +520,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 226000000
   frame_id: base_link
 readings:
@@ -4394,7 +533,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 244000000
   frame_id: base_link
 readings:
@@ -4407,7 +546,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 259000000
   frame_id: base_link
 readings:
@@ -4420,7 +559,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 277000000
   frame_id: base_link
 readings:
@@ -4433,7 +572,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 292000000
   frame_id: base_link
 readings:
@@ -4446,7 +585,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 307000000
   frame_id: base_link
 readings:
@@ -4459,7 +598,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 325000000
   frame_id: base_link
 readings:
@@ -4472,7 +611,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 340000000
   frame_id: base_link
 readings:
@@ -4485,7 +624,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 355000000
   frame_id: base_link
 readings:
@@ -4498,7 +637,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 373000000
   frame_id: base_link
 readings:
@@ -4511,7 +650,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 388000000
   frame_id: base_link
 readings:
@@ -4524,7 +663,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 406000000
   frame_id: base_link
 readings:
@@ -4537,7 +676,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 421000000
   frame_id: base_link
 readings:
@@ -4550,7 +689,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 436000000
   frame_id: base_link
 readings:
@@ -4563,7 +702,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 454000000
   frame_id: base_link
 readings:
@@ -4576,7 +715,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 469000000
   frame_id: base_link
 readings:
@@ -4589,7 +728,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 484000000
   frame_id: base_link
 readings:
@@ -4602,7 +741,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 502000000
   frame_id: base_link
 readings:
@@ -4611,11 +750,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 517000000
   frame_id: base_link
 readings:
@@ -4628,85 +767,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
-    nanosec: 535000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 550000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 565000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 583000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 598000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 613000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 110
+    sec: 218
     nanosec: 631000000
   frame_id: base_link
 readings:
@@ -4715,89 +776,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 646000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
   value: 15
 ---
 header:
   stamp:
-    sec: 110
-    nanosec: 664000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 679000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 694000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 712000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 110
-    nanosec: 727000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 15
----
-header:
-  stamp:
-    sec: 110
+    sec: 218
     nanosec: 742000000
   frame_id: base_link
 readings:
@@ -4810,7 +793,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 760000000
   frame_id: base_link
 readings:
@@ -4823,7 +806,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 775000000
   frame_id: base_link
 readings:
@@ -4832,11 +815,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 398
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 793000000
   frame_id: base_link
 readings:
@@ -4845,11 +828,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 506
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 808000000
   frame_id: base_link
 readings:
@@ -4858,11 +841,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 823000000
   frame_id: base_link
 readings:
@@ -4875,7 +858,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 841000000
   frame_id: base_link
 readings:
@@ -4884,11 +867,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 856000000
   frame_id: base_link
 readings:
@@ -4901,7 +884,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 871000000
   frame_id: base_link
 readings:
@@ -4910,11 +893,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 506
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 889000000
   frame_id: base_link
 readings:
@@ -4927,7 +910,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 904000000
   frame_id: base_link
 readings:
@@ -4936,11 +919,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 506
+  value: 72
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 922000000
   frame_id: base_link
 readings:
@@ -4953,7 +936,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 937000000
   frame_id: base_link
 readings:
@@ -4962,11 +945,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 952000000
   frame_id: base_link
 readings:
@@ -4979,7 +962,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 970000000
   frame_id: base_link
 readings:
@@ -4988,11 +971,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 72
 ---
 header:
   stamp:
-    sec: 110
+    sec: 218
     nanosec: 985000000
   frame_id: base_link
 readings:
@@ -5005,7 +988,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 0
   frame_id: base_link
 readings:
@@ -5014,11 +997,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 72
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 18000000
   frame_id: base_link
 readings:
@@ -5031,7 +1014,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 33000000
   frame_id: base_link
 readings:
@@ -5044,7 +1027,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 51000000
   frame_id: base_link
 readings:
@@ -5053,11 +1036,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 191
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 66000000
   frame_id: base_link
 readings:
@@ -5066,11 +1049,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 508
+  value: 502
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 81000000
   frame_id: base_link
 readings:
@@ -5083,7 +1066,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 99000000
   frame_id: base_link
 readings:
@@ -5092,11 +1075,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 502
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 114000000
   frame_id: base_link
 readings:
@@ -5109,7 +1092,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 132000000
   frame_id: base_link
 readings:
@@ -5122,7 +1105,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 147000000
   frame_id: base_link
 readings:
@@ -5135,7 +1118,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 162000000
   frame_id: base_link
 readings:
@@ -5148,7 +1131,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 180000000
   frame_id: base_link
 readings:
@@ -5161,7 +1144,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 195000000
   frame_id: base_link
 readings:
@@ -5174,7 +1157,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 210000000
   frame_id: base_link
 readings:
@@ -5183,11 +1166,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 191
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 228000000
   frame_id: base_link
 readings:
@@ -5196,11 +1179,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 398
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 243000000
   frame_id: base_link
 readings:
@@ -5209,11 +1192,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 191
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 261000000
   frame_id: base_link
 readings:
@@ -5226,7 +1209,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 276000000
   frame_id: base_link
 readings:
@@ -5239,7 +1222,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 291000000
   frame_id: base_link
 readings:
@@ -5252,7 +1235,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 309000000
   frame_id: base_link
 readings:
@@ -5265,7 +1248,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 324000000
   frame_id: base_link
 readings:
@@ -5278,7 +1261,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 339000000
   frame_id: base_link
 readings:
@@ -5291,7 +1274,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 357000000
   frame_id: base_link
 readings:
@@ -5304,7 +1287,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 372000000
   frame_id: base_link
 readings:
@@ -5317,7 +1300,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 390000000
   frame_id: base_link
 readings:
@@ -5330,7 +1313,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 405000000
   frame_id: base_link
 readings:
@@ -5343,7 +1326,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 420000000
   frame_id: base_link
 readings:
@@ -5352,11 +1335,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 438000000
   frame_id: base_link
 readings:
@@ -5369,7 +1352,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 453000000
   frame_id: base_link
 readings:
@@ -5382,7 +1365,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 468000000
   frame_id: base_link
 readings:
@@ -5395,7 +1378,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 486000000
   frame_id: base_link
 readings:
@@ -5408,7 +1391,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 501000000
   frame_id: base_link
 readings:
@@ -5421,7 +1404,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 519000000
   frame_id: base_link
 readings:
@@ -5434,7 +1417,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 534000000
   frame_id: base_link
 readings:
@@ -5443,11 +1426,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 191
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 549000000
   frame_id: base_link
 readings:
@@ -5460,7 +1443,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 567000000
   frame_id: base_link
 readings:
@@ -5473,7 +1456,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 582000000
   frame_id: base_link
 readings:
@@ -5486,7 +1469,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 597000000
   frame_id: base_link
 readings:
@@ -5499,7 +1482,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 615000000
   frame_id: base_link
 readings:
@@ -5512,7 +1495,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 630000000
   frame_id: base_link
 readings:
@@ -5525,7 +1508,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 648000000
   frame_id: base_link
 readings:
@@ -5538,7 +1521,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 663000000
   frame_id: base_link
 readings:
@@ -5551,7 +1534,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 678000000
   frame_id: base_link
 readings:
@@ -5564,7 +1547,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 696000000
   frame_id: base_link
 readings:
@@ -5577,7 +1560,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 711000000
   frame_id: base_link
 readings:
@@ -5590,7 +1573,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 726000000
   frame_id: base_link
 readings:
@@ -5603,7 +1586,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 744000000
   frame_id: base_link
 readings:
@@ -5616,7 +1599,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 759000000
   frame_id: base_link
 readings:
@@ -5629,7 +1612,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 777000000
   frame_id: base_link
 readings:
@@ -5642,7 +1625,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 792000000
   frame_id: base_link
 readings:
@@ -5655,7 +1638,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 807000000
   frame_id: base_link
 readings:
@@ -5668,7 +1651,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 825000000
   frame_id: base_link
 readings:
@@ -5681,7 +1664,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 840000000
   frame_id: base_link
 readings:
@@ -5694,7 +1677,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 855000000
   frame_id: base_link
 readings:
@@ -5707,7 +1690,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 873000000
   frame_id: base_link
 readings:
@@ -5720,7 +1703,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 888000000
   frame_id: base_link
 readings:
@@ -5733,7 +1716,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 906000000
   frame_id: base_link
 readings:
@@ -5746,7 +1729,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 921000000
   frame_id: base_link
 readings:
@@ -5759,7 +1742,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 936000000
   frame_id: base_link
 readings:
@@ -5772,7 +1755,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 954000000
   frame_id: base_link
 readings:
@@ -5785,7 +1768,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 969000000
   frame_id: base_link
 readings:
@@ -5798,7 +1781,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 111
+    sec: 219
     nanosec: 984000000
   frame_id: base_link
 readings:
@@ -5811,7 +1794,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 2000000
   frame_id: base_link
 readings:
@@ -5824,7 +1807,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 17000000
   frame_id: base_link
 readings:
@@ -5837,7 +1820,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 35000000
   frame_id: base_link
 readings:
@@ -5850,7 +1833,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 50000000
   frame_id: base_link
 readings:
@@ -5863,7 +1846,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 65000000
   frame_id: base_link
 readings:
@@ -5876,7 +1859,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 83000000
   frame_id: base_link
 readings:
@@ -5889,7 +1872,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 98000000
   frame_id: base_link
 readings:
@@ -5902,7 +1885,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 113000000
   frame_id: base_link
 readings:
@@ -5915,7 +1898,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 131000000
   frame_id: base_link
 readings:
@@ -5928,7 +1911,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 146000000
   frame_id: base_link
 readings:
@@ -5941,7 +1924,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 164000000
   frame_id: base_link
 readings:
@@ -5954,7 +1937,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 179000000
   frame_id: base_link
 readings:
@@ -5967,7 +1950,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 194000000
   frame_id: base_link
 readings:
@@ -5980,7 +1963,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 212000000
   frame_id: base_link
 readings:
@@ -5993,7 +1976,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 227000000
   frame_id: base_link
 readings:
@@ -6006,7 +1989,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 242000000
   frame_id: base_link
 readings:
@@ -6019,7 +2002,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 260000000
   frame_id: base_link
 readings:
@@ -6032,7 +2015,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 275000000
   frame_id: base_link
 readings:
@@ -6045,7 +2028,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 293000000
   frame_id: base_link
 readings:
@@ -6058,7 +2041,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 308000000
   frame_id: base_link
 readings:
@@ -6071,7 +2054,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 323000000
   frame_id: base_link
 readings:
@@ -6084,7 +2067,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 341000000
   frame_id: base_link
 readings:
@@ -6097,7 +2080,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 356000000
   frame_id: base_link
 readings:
@@ -6110,7 +2093,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 371000000
   frame_id: base_link
 readings:
@@ -6123,7 +2106,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 389000000
   frame_id: base_link
 readings:
@@ -6136,7 +2119,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 404000000
   frame_id: base_link
 readings:
@@ -6149,7 +2132,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 422000000
   frame_id: base_link
 readings:
@@ -6162,7 +2145,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 437000000
   frame_id: base_link
 readings:
@@ -6175,7 +2158,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 452000000
   frame_id: base_link
 readings:
@@ -6188,7 +2171,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 470000000
   frame_id: base_link
 readings:
@@ -6201,7 +2184,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 485000000
   frame_id: base_link
 readings:
@@ -6214,7 +2197,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 500000000
   frame_id: base_link
 readings:
@@ -6227,7 +2210,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 518000000
   frame_id: base_link
 readings:
@@ -6236,11 +2219,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 72
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 533000000
   frame_id: base_link
 readings:
@@ -6253,7 +2236,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 551000000
   frame_id: base_link
 readings:
@@ -6262,11 +2245,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 566000000
   frame_id: base_link
 readings:
@@ -6279,7 +2262,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 581000000
   frame_id: base_link
 readings:
@@ -6292,7 +2275,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 599000000
   frame_id: base_link
 readings:
@@ -6301,11 +2284,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 398
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 614000000
   frame_id: base_link
 readings:
@@ -6318,8 +2301,21 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 632000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 220
+    nanosec: 647000000
   frame_id: base_link
 readings:
 - header:
@@ -6331,20 +2327,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
-    nanosec: 647000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 506
----
-header:
-  stamp:
-    sec: 112
+    sec: 220
     nanosec: 662000000
   frame_id: base_link
 readings:
@@ -6357,7 +2340,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 680000000
   frame_id: base_link
 readings:
@@ -6370,7 +2353,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 695000000
   frame_id: base_link
 readings:
@@ -6383,21 +2366,8 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 710000000
-  frame_id: base_link
-readings:
-- header:
-    stamp:
-      sec: 0
-      nanosec: 0
-    frame_id: ''
-  value: 141
----
-header:
-  stamp:
-    sec: 112
-    nanosec: 728000000
   frame_id: base_link
 readings:
 - header:
@@ -6409,7 +2379,20 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
+    nanosec: 728000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 220
     nanosec: 743000000
   frame_id: base_link
 readings:
@@ -6418,11 +2401,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 761000000
   frame_id: base_link
 readings:
@@ -6435,7 +2418,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 776000000
   frame_id: base_link
 readings:
@@ -6448,7 +2431,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 791000000
   frame_id: base_link
 readings:
@@ -6457,11 +2440,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 809000000
   frame_id: base_link
 readings:
@@ -6470,11 +2453,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 508
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 824000000
   frame_id: base_link
 readings:
@@ -6483,11 +2466,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 72
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 839000000
   frame_id: base_link
 readings:
@@ -6496,11 +2479,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 857000000
   frame_id: base_link
 readings:
@@ -6513,7 +2496,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 872000000
   frame_id: base_link
 readings:
@@ -6526,7 +2509,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 890000000
   frame_id: base_link
 readings:
@@ -6535,11 +2518,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 15
+  value: 502
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 905000000
   frame_id: base_link
 readings:
@@ -6552,7 +2535,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 920000000
   frame_id: base_link
 readings:
@@ -6561,11 +2544,11 @@ readings:
       sec: 0
       nanosec: 0
     frame_id: ''
-  value: 141
+  value: 15
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 938000000
   frame_id: base_link
 readings:
@@ -6578,7 +2561,7 @@ readings:
 ---
 header:
   stamp:
-    sec: 112
+    sec: 220
     nanosec: 953000000
   frame_id: base_link
 readings:
@@ -6589,3 +2572,3553 @@ readings:
     frame_id: ''
   value: 15
 ---
+header:
+  stamp:
+    sec: 220
+    nanosec: 968000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 220
+    nanosec: 986000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 1000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 19000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 34000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 49000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 67000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 82000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 97000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 115000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 130000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 148000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 163000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 178000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 196000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 211000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 226000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 244000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 259000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 277000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 292000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 307000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 325000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 340000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 355000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 373000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 388000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 406000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 421000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 436000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 454000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 469000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 484000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 502000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 517000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 535000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 550000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 565000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 583000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 598000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 613000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 631000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 646000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 664000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 679000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 694000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 712000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 727000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 742000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 760000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 775000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 793000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 808000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 823000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 841000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 856000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 871000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 889000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 904000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 922000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 937000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 952000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 970000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 221
+    nanosec: 985000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 0
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 18000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 33000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 51000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 66000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 81000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 99000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 114000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 132000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 147000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 162000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 180000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 195000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 210000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 228000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 243000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 261000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 276000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 291000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 309000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 324000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 339000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 357000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 372000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 390000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 405000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 420000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 438000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 453000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 468000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 486000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 501000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 519000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 534000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 549000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 567000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 582000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 597000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 615000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 630000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 648000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 663000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 678000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 696000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 711000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 726000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 744000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 759000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 777000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 792000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 807000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 825000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 840000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 855000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 873000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 888000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 906000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 921000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 936000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 954000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 969000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 222
+    nanosec: 984000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 2000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 17000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 35000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 50000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 65000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 83000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 98000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 113000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 131000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 146000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 164000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 179000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 194000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 212000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 227000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 242000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 260000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 275000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 293000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 308000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 323000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 341000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 356000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 371000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 389000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 404000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 422000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 437000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 452000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 470000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 485000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 500000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 518000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 533000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 551000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 566000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 581000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 599000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 614000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 632000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 647000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 662000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 680000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 695000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 710000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 728000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 743000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 761000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 776000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 791000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 809000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 824000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 839000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 857000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 872000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 890000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 905000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 920000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 938000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 953000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 968000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 223
+    nanosec: 986000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 1000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 19000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 34000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 49000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 67000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 82000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 97000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 115000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 130000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 148000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 163000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 178000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 196000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 191
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 211000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 226000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 244000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 259000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 277000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 292000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 307000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 325000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 340000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 355000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 373000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 388000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 406000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 421000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 436000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 454000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 469000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 484000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 502000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 517000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 535000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 550000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 565000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 583000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 598000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 613000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 631000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 646000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 664000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 679000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 694000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 712000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 727000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 742000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 760000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 775000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 793000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 808000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 823000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 841000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 856000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 871000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 889000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 398
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 904000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 922000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 937000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 952000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 970000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 224
+    nanosec: 985000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 72
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 0
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 18000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 33000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 51000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 66000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 81000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 99000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 114000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 132000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 147000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 162000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 180000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 195000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 210000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 228000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 243000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 261000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 276000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 291000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 309000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 324000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 339000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 502
+---
+header:
+  stamp:
+    sec: 225
+    nanosec: 357000000
+  frame_id: base_link
+readings:
+- header:
+    stamp:
+      sec: 0
+      nanosec: 0
+    frame_id: ''
+  value: 15
+---
+!rclpy.ok()
