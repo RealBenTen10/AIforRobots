@@ -1,5 +1,21 @@
 # Exercises for AI for Robots 2025
 
+## Task 6.1
+
+Clone the whole repository or just the [JupyterNotebook](Task6/Task6.ipynb) and the [data](Task6/data.txt)
+If you haven't used JupyterNotebook before, make sure to install all necessary packages and extensions for your IDE.
+JupyterNotebook runs best inside a virtual environment on PyCharm (according to my experience).
+When everything is installed, simply click on "Run all" (looks like two play buttons) and the code should be executed.
+
+We decided to use the following approach to solve the task:
+- use the [python script](Task6/task6.py) to save the ir_intensity into a txt file 
+- read the data into the notebook and ensure during the parsing that the data was collected correctly
+- we store the data into a dictionary with the second as the key and the values in an array
+- next we print a bar plot with the mean of each key (second)
+- furthermore we plot the probabilities as predicted by beam-based sensor model 
+- the result is not really similar to the lecture slides
+
+
 ## Task 5.2
 
 Clone the whole repository or just the [JupyterNotebook](Task5/Task5.2.ipynb).
