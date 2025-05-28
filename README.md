@@ -8,7 +8,7 @@ JupyterNotebook runs best inside a virtual environment on PyCharm (according to 
 When everything is installed, simply click on "Run all" (looks like two play buttons) and the code should be executed.
 
 We decided to use the following approach to solve the task:
-- use the [python script](Task6/task6.py) to save the ir_intensity into a txt file 
+- use the [python script](Task6/task6.py) to save the ir_intensity into a txt file (we collect 10 seconds worth)
 - read the data into the notebook and ensure during the parsing that the data was collected correctly
 - we store the data into a dictionary with the second as the key and the values in an array
 - next we print a bar plot with the mean of each key (second)
