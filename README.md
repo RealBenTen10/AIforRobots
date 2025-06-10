@@ -1,5 +1,15 @@
 # Exercises for AI for Robots 2025
 
+## Task 7.2
+
+Clone the whole repository or just the [JupyterNotebook](Task7/Task7.2.ipynb).
+If you haven't used JupyterNotebook before, make sure to install all necessary packages and extensions for your IDE.
+JupyterNotebook runs best inside a virtual environment on PyCharm (according to my experience).
+When everything is installed, simply click on "Run all" (looks like two play buttons) and the code should be executed.
+
+The notebook features explanation of the code for each task a) - c) and e.g. for c) also for i) till iii). The notebook 
+should already show the last used parameters and it's plots but be free to play around ^^
+
 ## Task 6.1
 
 Clone the whole repository or just the [JupyterNotebook](Task6/Task6.ipynb) and the [data](Task6/data.txt)
