@@ -1,5 +1,11 @@
 # Exercises for AI for Robots 2025
 
+## Task 8
+
+Clone the whole repo or just the [Python Script](Task8/Task8.py).
+The [Plot](Task8/LineMap.png) shows the created LineMap on the right and the data points on the left.
+You can also run the [Python Script](Task8/Task8.py) to get the results freshly cooked.
+
 ## Task 7.2
 
 Clone the whole repository or just the [JupyterNotebook](Task7/Task7.2.ipynb).
