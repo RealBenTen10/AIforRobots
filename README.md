@@ -1,5 +1,13 @@
 # Exercises for AI for Robots 2025
 
+## Task 9
+
+Clone the whole repository or just the [JupyterNotebook](Task9/Task9.2.ipynb).
+If you haven't used JupyterNotebook before, make sure to install all necessary packages and extensions for your IDE.
+JupyterNotebook runs best inside a virtual environment on PyCharm (according to my experience).
+When everything is installed, simply click on "Run all" (looks like two play buttons) and the code should be executed.
+
+
 ## Task 8
 
 Clone the whole repo or just the [Python Script](Task8/Task8.py).
